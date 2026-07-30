@@ -1,6 +1,6 @@
 {
-  "serverHost": "example.aternos.me",
-  "serverPort": 12345,
-  "botUsername": "MyBot",
-  "botChunk": 1
+  "serverHost": "pillowmc.aternos.me",
+  "serverPort": 61065,
+  "botUsername": "managerbotwork",
+  "botChunk": 2
 }
